@@ -67,16 +67,16 @@
     "displayName": "Strapi Location Picker",
     "description": "Strapi plugin for selecting and searching locations with an interactive map picker."
   },
-  "name": "strapi-location-picker",
-  "description": "Strapi plugin for selecting and searching locations with an interactive map picker.",
+  "name": "strapi-location-picker-v2",
+  "description": "Strapi plugin for selecting and searching locations with an interactive map picker. Updated for new query url",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wisnuwiry/strapi-geodata.git"
+    "url": "git+ssh://git@github.com/adam-envoy/strapi-geodata.git"
   },
   "bugs": {
-    "url": "https://github.com/wisnuwiry/strapi-geodata/issues"
+    "url": "https://github.com/adam-envoy/strapi-geodata/issues"
   },
-  "homepage": "https://github.com/wisnuwiry/strapi-geodata#readme",
-  "author": "Wisnu G. Saputra <wisnuwiry@gmail.com>"
+  "homepage": "https://github.com/adam-envoy/strapi-geodata#readme",
+  "author": "Forked from Wisnu G. Saputra <wisnuwiry@gmail.com>"
 }
